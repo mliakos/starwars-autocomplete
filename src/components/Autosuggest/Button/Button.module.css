@@ -1,0 +1,28 @@
+.Button {
+    /* Position */
+    height: 35px;
+    outline: none;
+    position: absolute;
+    padding: 10px 15px;
+    margin-left: 8px;
+    margin-top: 8px;
+
+    /* Appearance */
+    border: 1px solid transparent;
+    border-radius: 3px;
+    border-width: 3px;
+    background-color: rgb(65, 105, 218);
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+
+
+}
+
+.Button:hover {
+    cursor: pointer;
+}
+
+.Button:disabled {
+    background-color: rgba(65, 106, 218, 0.575);
+}
