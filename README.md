@@ -49,4 +49,6 @@ Note: The search button is decorative. Search is performed automatically during 
 
 # Testing
 
+**_Important Note:_** Before you run any tests, make sure the app is running on http://localhost:3000. If the app is not running, follow the steps [here](##Using%20the%20development%20build).
+
 To run all test suites, open a terminal in root directory and type `npm test`.
