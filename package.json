@@ -1,5 +1,5 @@
 {
-	"name": "auto-suggest",
+	"name": "starwars-autocomplete",
 	"homepage": "https://manos-liakos.dev/starwars-autocomplete",
 	"version": "0.1.0",
 	"private": true,

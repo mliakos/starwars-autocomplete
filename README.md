@@ -13,7 +13,7 @@ relevant information in a dedicated area.
 
 Live: https://manos-liakos.dev/starwars-autocomplete/
 
-![Autosuggest Component Demo](demo/Autosuggest.gif)
+![Autosuggest Component Demo](demo/starwars-autocomplete.gif)
 
 # Features
 
