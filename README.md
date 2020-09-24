@@ -7,7 +7,7 @@ a character from the Star Wars universe.
 Basically, the user submits the name of the character he is looking for, in order to see all the
 relevant information in a dedicated area.
 
-- API link: https://swapi.dev/documentation - start
+- API link: https://swapi.dev/documentation
 
 # Demo
 
