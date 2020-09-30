@@ -11,7 +11,6 @@ class App extends Component {
 			<div className={classes.App}>
 				<Logo />
 				<Autosuggest
-					minChars={3} // Minimum characters required to start search
 					debounce={500} // Time required to make the request after user has stopped typing (in ms)
 				/>
 			</div>

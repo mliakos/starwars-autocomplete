@@ -228,7 +228,6 @@ const Autosuggest = props => {
 };
 
 Autosuggest.propTypes = {
-	minChars: PropTypes.number,
 	debounce: PropTypes.number
 };
 
