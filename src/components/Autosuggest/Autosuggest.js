@@ -35,6 +35,7 @@ const Autosuggest = props => {
 				const cached = JSON.parse(
 					localStorage.getItem(`${debouncedInputValue}`)
 				);
+
 				setData([...cached]);
 			} catch (e) {
 				setLoading(true);
@@ -150,7 +151,6 @@ const Autosuggest = props => {
 	/*** Other functions ***/
 
 	const loadHighlightedHero = () => {
-		console.log("s");
 		const highlightedElementIndex = data.findIndex(
 			e => e.name === highlightedID
 		);
