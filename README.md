@@ -39,7 +39,7 @@ Note: The search button is decorative. Search is performed automatically during 
 
 ### Building a production version
 
-1. Open a terminal in "problem_2" directory and run `npm run-script build`.
+1. Open a terminal in root directory and run `npm run-script build`.
 
 ### Using a local static file server
 
